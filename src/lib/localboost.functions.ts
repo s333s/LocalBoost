@@ -45,7 +45,7 @@ OUTPUT: exactly 7 calendar days (Day 1 to Day 7), exactly 5 FAQs, 2-4 pricing ti
 The suggested price range is per item, for the main product, in the given currency.`;
 
 export const generatePlan = createServerFn({ method: "POST" })
-  .inputValidator((input: PlanInput) => input)
+  .validator((input: PlanInput) => input)
   .handler(async ({ data }) => {
     const apiKey = process.env["LOVABLE_API_KEY"];
     if (!apiKey) throw new Error("AI is not configured.");
