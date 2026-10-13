@@ -1,26 +1,34 @@
-# Pixel Perfect Render
+# 🚀 LocalBoost
 
-Implement exactly the screenshot and nothing else
+<p align="center">
+  <img src="docs/localboost.png" alt="LocalBoost logo" width="680">
+</p>
 
-This project was built with [Lovable](https://lovable.dev).
+AI business assistant for home and local sellers: honest pricing math, a week of social posts, and ready customer answers, in English or Arabic. Built for **WarriorHacks 2.0**.
 
-**Live app**: https://pixel-perfect-render-72722.lovable.app
+🎥 [Demo video](https://youtu.be/NS5GVyJLCXY) · 🌐 [Live demo]([https://youtu.be/NS5GVyJLCXY](https://pixel-perfect-render-72722.lovable.app/)) · 📝 [Devpost](https://devpost.com/s333s)
 
-## Build with Lovable
+## Features
+- Pricing math (margin and break-even) calculated in code
+- 7-day social media content calendar
+- Ready answers to common customer questions
+- English and Arabic output
+- Sample businesses: home bakery, tutor, small shop
 
-Continue developing this project in the [Lovable editor](https://lovable.dev/projects/44413939-b5d2-4b16-95a9-6eb668a05b17).
+## Tech
+[React, Vite, TypeScript, Tailwind CSS, Gemini API (structured JSON output), Vercel]
 
-- **Ship faster**: describe what you want to build and Lovable handles the code.
-- **Stay in sync**: every change made in Lovable is committed straight to this repository.
-- **Full ownership**: this code is yours. Push to `main` on GitHub and your changes sync back into Lovable, ready for your next prompt.
-
-## Development
-
-Prefer working locally? You need Node.js and npm — [install with nvm](https://github.com/nvm-sh/nvm#installing-and-updating).
-
-```sh
-git clone <this-repository-url>
-cd <repository-name>
-npm i
+## Run locally
+```bash
+git clone https://github.com/s333s/LocalBoost.git
+cd LocalBoost
+npm install
+cp .env.example .env.local   
 npm run dev
 ```
+
+## What's next
+Saved profiles, post scheduling, more languages.
+
+## Author
+Al Abri ([@s333s](https://github.com/s333s))
