@@ -6,7 +6,7 @@
 
 AI business assistant for home and local sellers: honest pricing math, a week of social posts, and ready customer answers, in English or Arabic. Built for **WarriorHacks 2.0**.
 
-🎥 [Demo video](https://youtu.be/NS5GVyJLCXY) · 🌐 [Live demo]([https://youtu.be/NS5GVyJLCXY](https://pixel-perfect-render-72722.lovable.app) · 📝 [Devpost](https://devpost.com/s333s)
+🎥 [Demo video](https://youtu.be/NS5GVyJLCXY) · 🌐 [Live demo](https://pixel-perfect-render-72722.lovable.app) · 📝 [Devpost](https://devpost.com/s333s)
 
 ## Features
 - Pricing math (margin and break-even) calculated in code
