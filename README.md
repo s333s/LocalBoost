@@ -1,7 +1,7 @@
 # 🚀 LocalBoost
 
 <p align="center">
-  <img src="localboost.png" alt="LocalBoost logo" width="680">
+  <img src="localboost.png" alt="LocalBoost" width="680">
 </p>
 
 AI business assistant for home and local sellers: honest pricing math, a week of social posts, and ready customer answers, in English or Arabic. Built for **WarriorHacks 2.0**.
